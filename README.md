@@ -14,6 +14,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZvqzCz4zWX0ZdTaSuhSZsZtNqF7gHGMY/view?usp=sharing](https://drive.google.com/file/d/1ZvqzCz4zWX0ZdTaSuhSZsZtNqF7gHGMY/view?usp=sharing)
 
+- 📄 Here my Test Plan for SauceDemo [https://drive.google.com/file/d/1rEESBnAW4rdi7JuM4CbisOhpMWVjqeiE/view?usp=drive_link](https://drive.google.com/file/d/1rEESBnAW4rdi7JuM4CbisOhpMWVjqeiE/view?usp=drive_link)
+
+- 📄 Here my Test Case for SauceDemo [https://docs.google.com/spreadsheets/d/1bSniBOTmVdGWWhsF510KsQI7skGOsl3-/edit?usp=sharing&ouid=107081234915555233675&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1bSniBOTmVdGWWhsF510KsQI7skGOsl3-/edit?usp=sharing&ouid=107081234915555233675&rtpof=true&sd=true)
+
+- 📄 Here my Bug Report for SauceDemo https://drive.google.com/file/d/1MfqopcZ6LEkg05kgB-e5pJrKAlBL2-hN/view?usp=sharing](https://drive.google.com/file/d/1MfqopcZ6LEkg05kgB-e5pJrKAlBL2-hN/view?usp=sharing)
+
 - ⚡ Fun fact **I'm a perfectionist**
 
 <h3 align="left">Connect with me:</h3>
